@@ -1,0 +1,4 @@
+Welcome to the user manual for this project! 
+To access this estimator you will need an Azure Quantum Workspace. More information about creating an Azure Quatnum workspace can be found:https://learn.microsoft.com/en-us/azure/quantum/how-to-create-workspace?tabs=payg%2Ctabid-quick
+In order to run the code in this reposistory, please install the necessary packages for Microsoft Azure Quantum Resource Estimator. 
+Instructions on the appropriate packages and installation instructions can be found here: https://learn.microsoft.com/en-us/azure/quantum
